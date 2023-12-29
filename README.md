@@ -1,5 +1,5 @@
 # CPE342_Lab_RNN_text_to_emojo-i
-is this homework lab of Data Model subject 
+is this homework lab of Machine Learning subject 
 
 the objective is to learn how RNN works 
 
